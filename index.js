@@ -24,7 +24,7 @@ const blogData = [
         content: "STUF STUF STUF STUF"
     }
 ];
-
+// fnjdsfhjfhjf
 app.get("/", (req, res) => {
     res.render("home", {
         locals: {
